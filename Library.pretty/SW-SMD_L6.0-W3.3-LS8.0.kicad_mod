@@ -1,4 +1,4 @@
-(module SW-SMD_L6.0-W3.3-LS8.0 (layer F.Cu) (tedit 62B8624F) 
+(module SW-SMD_L6.0-W3.3-LS8.0 (layer F.Cu) (tedit 62C63B3E) 
  (fp_text reference REF** (at 0 -3.207) (layer F.SilkS) 
    (effects (font (size 1 1) (thickness 0.15)) (justify left))) 
  (fp_text value std:e7a31d9a752b409d8c6ce54bbda1adc3 (at 0 -0.667) (layer F.Fab) 
